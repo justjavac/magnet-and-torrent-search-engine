@@ -2,8 +2,6 @@
 
 磁力链接和 BT 种子的搜索引擎 [{Magnet & Torrent}](http://magnet-torrent.com)
 
-目前只有静态的演示，源码在 [gh-pages](https://github.com/justjavac/magnet-and-torrent-search-engine/tree/gh-pages) 分支。
-
 ## 系统功能和用到的技术。
 
 系统包括几个独立的部分：
